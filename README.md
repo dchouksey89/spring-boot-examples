@@ -1,1 +1,1 @@
-# sprint-boot-examples
+# spring-boot-examples
